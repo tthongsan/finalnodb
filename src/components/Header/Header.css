@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700');
+
+.header {
+    font-size: 130px;
+    font-weight: 300;
+    font-family: "Lato";
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.header p {
+    font-size: 15px;
+    letter-spacing: 5px;
+}
